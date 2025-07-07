@@ -1,1 +1,3 @@
-# lyrics-plus
+# lyrics+
+
+## TODO: write readme
